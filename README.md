@@ -1,2 +1,2 @@
 # BioCS
-Course materials for Bio/CS intro course
+Materials for a Bio/CS intro course.
