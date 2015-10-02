@@ -43,13 +43,6 @@ This course is an introduction to biology through computer science, or an introd
 15    | Apr 26 |
       | Apr 28 | 
 
-Modeling Life:
-Assignment 1: Move and avoid predator - functions & arguments
-Assignment 2: Move randomly to find food. (Optimal foraging) - if & loop
-
-DNA statistics:
-Assignment 3: GC counts  (choose species & GC across chromosome) - file access, variables, math & plotting (matplotlib)
-
 
 
 ## Textbook and Readings
