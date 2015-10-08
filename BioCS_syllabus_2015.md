@@ -13,19 +13,19 @@ This course is an introduction to biology through computer science, or an introd
 
  Week | Date   | Topic 
 ------|--------|---------
-1     | Jan 19 | Modeling Life - functions, arguments 
-      | Jan 21 | Random Walks/Foraging - loops, conditional
-2     | Jan 27 | DNA sequence analysis: GC content - files, variables, math
-      | Jan 19 | Variation across genomes and species - plotting
-3     | Feb 2  | 
-      | Feb 4  | 
-4     | Feb 9  | 
-      | Feb 11 | 
-5     | Feb 15 | 
-      | Feb 17 | 
-6     | Feb 23 | 
-      | Feb 25 | 
-7     | Mar 1  | 
+1     | Jan 19 | Modeling Life - picobot 
+      | Jan 21 | Foraging - conditional statements
+2     | Jan 27 | DNA sequence analysis: GC content - variables, math, functions
+      | Jan 19 | GC content variation across genomes and species - files, plotting
+3     | Feb 2  | DNA Translation - dictionaries
+      | Feb 4  | Identifying Open reading frames - conditional statements
+4     | Feb 9  | DNA mutations
+      | Feb 11 | Population genetics Random Genetic Drift - arrays, random
+5     | Feb 15 |   
+      | Feb 17 | Natural selection and fitness
+6     | Feb 23 | Haploid vs diploid - objects
+      | Feb 25 | Recombination
+7     | Mar 1  | Selection with recombination
       | Mar 3  | 
 8     | Mar 7  | *Spring Break* 
 9     | Mar 15 | 
