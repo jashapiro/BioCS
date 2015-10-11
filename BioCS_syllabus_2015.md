@@ -1,4 +1,4 @@
-# Bio 1XX CSMC 110: Biology Through Computing
+# BIOL B1XX/CSMC B1XX: Computing Through Biology
 ### Spring 2015
 
 ### Instructors:
