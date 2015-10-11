@@ -11,43 +11,43 @@ This course is an introduction to biology through computer science, or an introd
 
 ## Tentative Schedule
 
- Week | Date   | Topic 
-------|--------|---------
-1     | Jan 19 | Modeling Life - picobot 
-      | Jan 21 | Foraging - conditional statements
-2     | Jan 27 | DNA sequence analysis: GC content - variables, math, functions
-      | Jan 19 | GC content variation across genomes and species - files, plotting
-3     | Feb 2  | DNA Translation - dictionaries
-      | Feb 4  | Identifying Open reading frames - conditional statements
-4     | Feb 9  | DNA mutations
-      | Feb 11 | Population genetics Random Genetic Drift - arrays, random
-5     | Feb 15 |   
-      | Feb 17 | Natural selection and fitness
-6     | Feb 23 | Haploid vs diploid - objects
-      | Feb 25 | Recombination
-7     | Mar 1  | Selection with recombination
-      | Mar 3  | 
-8     | Mar 7  | *Spring Break* 
-9     | Mar 15 | 
-      | Mar 17 | 
-10    | Mar 22 | 
-      | Mar 24 | 
-11    | Mar 29 |
-      | Mar 31 | 
-12    | Apr 5  |
-      | Apr 7  | 
-13    | Apr 12 |
-      | Apr 14 | 
-14    | Apr 19 | 
-      | Apr 21 | 
-15    | Apr 26 |
-      | Apr 28 | 
+ Week | Date   | Topic                          |Reading (Zelle)
+------|--------|--------------------------------|-------------
+1     | Jan 19 | Modeling Life - picobot        | Chapter 1
+      | Jan 21 | Foraging with picobot          |
+2     | Jan 27 | Simple programs                | Chapter 2
+      | Jan 19 | DNA sequence analysis: GC content -  math, strings | Chapter 3, 5.1-5.2
+3     | Feb 2  | GC content variation across genomes and species - files, functions, matplotlib | Chapter 5.3-5.10, 6
+      | Feb 4  | DNA Translation - lists and dictionaries | Chapter 11.1-11.3, 11.6
+4     | Feb 9  | Identifying open reading frames - conditional statements | Chapter 7
+      | Feb 11 | DNA mutations, types and effects -  modular arithmetic   | 
+5     | Feb 15 | Population genetics: Random Genetic Drift - arrays, random  | Chapter 8
+      | Feb 17 | Genetic drift with mutations: infinite vs finite sites - program design | Chapter 9
+6     | Feb 23 | Natural selection and fitness
+      | Feb 25 | Graphics - Drawing life        | Chapter 4
+7     | Mar 1  | Seed Dispersal                 |
+      | Mar 3  |                                |
+8     | Mar 7  | *Spring Break*                 |
+9     | Mar 15 | Review for exam                |
+      | Mar 17 | **Exam I**                     |
+10    | Mar 22 | Haploids, diploids and mating - classes & objects | Chapter 10
+      | Mar 24 | Additive vs. dominance in evolution |
+11    | Mar 29 |                                |
+      | Mar 31 |                                |
+12    | Apr 5  | Algorithm design & efficiency  | Chapter 13
+      | Apr 7  | Recursion                      |
+13    | Apr 12 | Sequence alignment - Dynamic programming |
+      | Apr 14 | Global vs. local alignment     |
+14    | Apr 19 | Project Presentations          |
+      | Apr 21 | Project Presentations          |
+15    | Apr 26 | Review for final               |
+      | Apr 28 | Review for final               |
 
 
 
 ### Textbook and Readings
 
-For the computer science topics of the course, we will be using *Python Programming, Second Edition* by John Zelle. (or another textbook TBA). Be sure to get the second edition, as it covers Python 3, which is the version of the language that we will be using. 
+For the computer science topics of the course, we will be using *Python Programming, Second Edition* by John Zelle. Be sure to get the second edition, as it covers Python 3, which is the version of the language that we will be using. 
 
 Readings on biological topics will be taken from a variety of sources, with all readings posted on the course website.
 
