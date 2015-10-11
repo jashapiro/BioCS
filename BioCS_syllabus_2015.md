@@ -45,18 +45,28 @@ This course is an introduction to biology through computer science, or an introd
 
 
 
-## Textbook and Readings
+### Textbook and Readings
 
-For the computer science topics of the course, we will be using *Python Programming, Second Edition* by John Zelle. (or another textbook TBA). Be sure to get the second edition, as 
+For the computer science topics of the course, we will be using *Python Programming, Second Edition* by John Zelle. (or another textbook TBA). Be sure to get the second edition, as it covers Python 3, which is the version of the language that we will be using. 
 
 Readings on biological topics will be taken from a variety of sources, with all readings posted on the course website.
 
-
 ## Course Policies
 
+###  Assignments
+
+There will be approximately eight assignments, consisting of programming problems and explorations of biological questions through computational approaches.
+
+### Exams
+
+There will be two exams in the course, one mid-semester and the other during finals period. The exams will cover material from lectures, homeworks, and assigned readings (including topics not discussed in class). Both exams will be closed-book and closed-notes.
+
+### Group Project
+
+During the second half of the semester, students will work in small (2-3 person) groups on an independent programming project that explores an area of biology through computation. Topics may include  simulations of genetic regulatory systems, modeling of population dynamics or epidemiology, bioinformatic data analysis, or any other topic of interest in biology. Groups will present their work in an oral presentation to the class, and through a Jupyter notebook that clearly describes both the biological questions being addressed and the computational approaches taken.
 
 
-## Support Services and Accommodations
+### Support Services and Accommodations
 
 Bryn Mawr offers a variety of resources to help students thrive in their academic endeavors while managing stress and maintaining mental health. For further information on those services, consult the [Support Services website](http://www.brynmawr.edu/academicsupport/StudentSupportServices.html) or contact Rachel Heiser, Academic Support and Learning Resources Specialist in the Dean’s Office, with questions: ([rheiser@brynmawr.edu](mailto:rheiser@brynmawr.edu), 610-526-5275) 
 
