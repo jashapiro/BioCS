@@ -92,9 +92,16 @@ Exam I
   * dispersal models
   * evolution in space
 
+* Extending evolutionary models
+  * Effects of Recombination
+  * Changes in population size
+  * Metapopulation models
+  * Coalescent Models
+
 * Bioinformatics topics
   * gene expression
   * genome variation (dinucleotides, trinucleotides)
+  * identifying motifs
   * big data analysis
 
 * Agent-based robotics
