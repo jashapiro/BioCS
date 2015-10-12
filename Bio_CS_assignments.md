@@ -1,7 +1,7 @@
 # Assignment Ideas
 
 ## Modeling Life:
-* Assignment 1: Move to find food 
+* [Assignment 1](https://athena.brynmawr.edu/jupyter/hub/dblank/public//BioCS/notebooks/Lab01.ipynb): Move to find food 
   * picobot
   * rules to cover space
   * 
