@@ -5,7 +5,7 @@
   * picobot
   * rules to cover space
   * 
-* Assignment 2: Move randomly to find food. 
+* [Assignment 2](https://athena.brynmawr.edu/jupyter/hub/dblank/public//BioCS/notebooks/Lab02.ipynb): Move randomly to find food. 
   * if() statements and loops
   * Optimal foraging theory: 
     * energy use
