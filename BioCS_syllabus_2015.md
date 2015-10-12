@@ -8,6 +8,9 @@ Joshua Shapiro & Douglas Blank
 
 This course is an introduction to biology through computer science, or an introduction to computer science through biology. The course will examine biological systems through the application of computer science, exploring concepts from bioinformatics, evolution, ecology, and molecular biology through the practice of writing and modifying code in the Python programming language. The course will introduce students to the subject matter and branches of computer science as an academic discipline, and the nature, development, coding, testing, documenting and analysis of the efficiency and limitations of algorithms.
 
+### Learning objectives
+
+
 
 ## Tentative Schedule
 
@@ -15,32 +18,32 @@ This course is an introduction to biology through computer science, or an introd
 ------|--------|--------------------------------|-------------
 1     | Jan 19 | Modeling Life - picobot        | Chapter 1
       | Jan 21 | Foraging with picobot          |
-2     | Jan 27 | Simple programs                | Chapter 2
-      | Jan 19 | DNA sequence analysis: GC content -  math, strings | Chapter 3, 5.1-5.2
-3     | Feb 2  | GC content variation across genomes and species - files, functions, matplotlib | Chapter 5.3-5.10, 6
-      | Feb 4  | DNA Translation - lists and dictionaries | Chapter 11.1-11.3, 11.6
-4     | Feb 9  | Identifying open reading frames - conditional statements | Chapter 7
-      | Feb 11 | DNA mutations, types and effects -  modular arithmetic   | 
-5     | Feb 15 | Population genetics: Random Genetic Drift - arrays, random  | Chapter 8
-      | Feb 17 | Genetic drift with mutations: infinite vs finite sites - program design | Chapter 9
-6     | Feb 23 | Natural selection and fitness
-      | Feb 25 | Graphics - Drawing life        | Chapter 4
-7     | Mar 1  | Seed Dispersal                 |
-      | Mar 3  |                                |
+2     | Jan 27 | Simple programs - Python picobot | Chapter 2, 7.1-7.3
+      | Jan 19 | Random and pseudorandom numbers  |
+3     | Feb 2  | DNA sequence analysis: GC content -  math, strings, functions | Chapter 3, 5.1-5.2, 6
+      | Feb 4  | GC content variation across genomes and species - lists, basic graphics | Chapter 4, 11.1-11.3
+4     | Feb 9  | DNA Translation - files, dictionaries | Chapter 5.3-5.10, 11.1-11.3, 11.6
+      | Feb 11 | Debugging and testing          |
+5     | Feb 15 | DNA mutations, types and effects - modular arithmetic   | Chapter 7
+      | Feb 17 | Sorting                        |
+6     | Feb 23 | *Community Day of Learning*    |
+      | Feb 25 | Evolving digital organisms               |
+7     | Mar 1  | Review for exam                |
+      | Mar 3  | **Exam I**                     |
 8     | Mar 7  | *Spring Break*                 |
-9     | Mar 15 | Review for exam                |
-      | Mar 17 | **Exam I**                     |
+9     | Mar 15 | Population genetics: Random Genetic Drift - arrays, random  | Chapter 8 
+      | Mar 17 | Genetic drift with mutations: infinite vs finite sites - program design | Chapter 9
 10    | Mar 22 | Haploids, diploids and mating - classes & objects | Chapter 10
-      | Mar 24 | Additive vs. dominance in evolution |
-11    | Mar 29 |                                |
-      | Mar 31 |                                |
-12    | Apr 5  | Algorithm design & efficiency  | Chapter 13
-      | Apr 7  | Recursion                      |
-13    | Apr 12 | Sequence alignment - Dynamic programming |
-      | Apr 14 | Global vs. local alignment     |
-14    | Apr 19 | Project Presentations          |
+      | Mar 24 | Additivity & dominance in evolution |
+11    | Mar 29 | Project Brainstorming & Design      |
+      | Mar 31 | Learning Systems and Plasticity     |
+12    | Apr 5  | Training a neural network           |
+      | Apr 7  | Algorithm design & efficiency  | Chapter 13
+13    | Apr 12 | Recursion                      |
+      | Apr 14 | Sequence alignment             |
+14    | Apr 19 | Global vs. local alignment     |
       | Apr 21 | Project Presentations          |
-15    | Apr 26 | Review for final               |
+15    | Apr 26 | Project Presentations          |
       | Apr 28 | Review for final               |
 
 
@@ -55,7 +58,7 @@ Readings on biological topics will be taken from a variety of sources, with all 
 
 ###  Assignments
 
-There will be approximately eight assignments, consisting of programming problems and explorations of biological questions through computational approaches.
+There will be approximately ten assignments, consisting of programming problems and explorations of biological questions through computational approaches.
 
 ### Exams
 
