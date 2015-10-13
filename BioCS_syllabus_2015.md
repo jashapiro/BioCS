@@ -6,7 +6,7 @@ Joshua Shapiro & Douglas Blank
 
 ## Course Description
 
-This course is an introduction to biology through computer science, or an introduction to computer science through biology. The course will examine biological systems through the use of computer science, exploring concepts from bioinformatics, evolution, ecology, and molecular biology through the practice of writing and modifying code in the Python programming language. The course will introduce students to the subject matter and branches of computer science as an academic discipline, and the nature, development, coding, testing, documenting and analysis of the efficiency and limitations of algorithms.
+This course is an introduction to biology through computer science, or an introduction to computer science through biology. The course will examine biological systems through the use of computer science, exploring concepts and solving problems from bioinformatics, evolution, ecology, and molecular biology through the practice of writing and modifying code in the Python programming language. The course will introduce students to the subject matter and branches of computer science as an academic discipline, and the nature, development, coding, testing, documenting and analysis of the efficiency and limitations of algorithms.
 
 ### Learning objectives
 The goal of this course is to introduce concepts from computer science and biology in an integrated approach, while drawing connections between these two fields of study. Specifically, students completing the course should be able to:
@@ -21,35 +21,35 @@ The goal of this course is to introduce concepts from computer science and biolo
 
  Week | Date   | Topic                          | Reading (Zelle) |
 -----:|--------|--------------------------------|------------- |
-1     | Jan 19 | Modeling Life through simulations | Chapter 1 |
-      | Jan 21 | Foraging and energy models        |  |
-2     | Jan 27 | Simple programs - Python simulation  | Chapter 2, 7.1-7.3 |
-      | Jan 19 | Stochastic simulation, Random & pseudorandom numbers |  |
-3     | Feb 2  | DNA sequence analysis: GC content -  math, strings, functions | Chapter 3, 5.1-5.2, 6 |
-      | Feb 4  | GC content variation across genomes & species - lists, graphics | Chapter 4, 11.1-11.3 |
-4     | Feb 9  | DNA Translation - files, dictionaries | Chapter 5.3-5.10, 11.1-11.3, 11.6 |
-      | Feb 11 | Debugging & testing            |  |
-5     | Feb 15 | DNA mutations, types & effects - modular arithmetic | Chapter 7 |
-      | Feb 17 | Sorting and analysis           |  |
-6     | Feb 23 | *Community Day of Learning*    |  |
-      | Feb 25 | Evolving digital organisms     |  |
-7     | Mar 1  | Review for exam                |  |
-      | Mar 3  | **Exam I**                     |  |
+1     | Jan 18 | Modeling Life through simulations | Chapter 1 |
+      | Jan 20 | Foraging and energy models        |  |
+2     | Jan 26 | Simple programs - Python simulation  | Chapter 2, 7.1-7.3 |
+      | Jan 28 | Stochastic simulation, Random & pseudorandom numbers |  |
+3     | Feb 1  | DNA sequence analysis: GC content -  math, strings, functions | Chapter 3, 5.1-5.2, 6 |
+      | Feb 3  | GC content variation across genomes & species - lists, graphics | Chapter 4, 11.1-11.3 |
+4     | Feb 8  | DNA Translation - files, dictionaries | Chapter 5.3-5.10, 11.1-11.3, 11.6 |
+      | Feb 10 | Debugging & testing            |  |
+5     | Feb 14 | DNA mutations, types & effects - modular arithmetic | Chapter 7 |
+      | Feb 16 | Sorting & analysis            |  |
+6     | Feb 22 | Evolving digital organisms    |  |
+      | Feb 24 | Evolving digital organisms    |  |
+7     | Feb 29  | Review for exam                |  |
+      | Mar 2  | **Exam I**                     |  |
 8     | Mar 7  | *Spring Break*                 |  |
-9     | Mar 15 | Population genetics: Random Genetic Drift - arrays, random  | Chapter 8 |
-      | Mar 17 | Genetic drift with mutations: infinite vs finite sites - program design | Chapter 9 |
-10    | Mar 22 | Haploids, diploids & mating - classes & objects | Chapter 10 |
-      | Mar 24 | Additivity & dominance in evolution | |
-11    | Mar 29 | Project Brainstorming & Design      | |
-      | Mar 31 | Learning Systems & Plasticity       | |
-12    | Apr 5  | Training a neural network           | |
-      | Apr 7  | Algorithm design & efficiency  | Chapter 13 |
-13    | Apr 12 | Recursion                      |  |
-      | Apr 14 | Sequence alignment             |  | 
-14    | Apr 19 | Broader applications           |  |
-      | Apr 21 | Project Presentations          |  |
-15    | Apr 26 | Project Presentations          |  | 
-      | Apr 28 | Review for final               |  |
+9     | Mar 14 | Population genetics: Random Genetic Drift - arrays, random  | Chapter 8 |
+      | Mar 16 | Genetic drift with mutations: infinite vs finite sites - program design | Chapter 9 |
+10    | Mar 21 | Haploids, diploids & mating - classes & objects | Chapter 10 |
+      | Mar 23 | Additivity & dominance in evolution | |
+11    | Mar 28 | Project Brainstorming & Design      | |
+      | Mar 30 | Learning Systems & Plasticity       | |
+12    | Apr 4  | Training a neural network           | |
+      | Apr 6  | Algorithm design & efficiency  | Chapter 13 |
+13    | Apr 11 | Recursion                      |  |
+      | Apr 13 | Sequence alignment             |  | 
+14    | Apr 18 | Broader applications           |  |
+      | Apr 20 | Project Presentations          |  |
+15    | Apr 25 | Project Presentations          |  | 
+      | Apr 27 | Review for final               |  |
 
 
 
@@ -57,7 +57,7 @@ The goal of this course is to introduce concepts from computer science and biolo
 
 For the computer science topics of the course, we will be using [Python Programming, Second Edition](http://mcsp.wartburg.edu/zelle/python/ppics2/index.html) by John Zelle. Be sure to get the second edition, as it covers Python 3, which is the version of the language that we will be using. 
 
-<div style="text-align: center"><img src="http://mcsp.wartburg.edu/zelle/python/ppics2/cover.png" alt= "Python Programming, second edition cover image"></div>
+<img src="http://mcsp.wartburg.edu/zelle/python/ppics2/cover.png" alt= "Python Programming, second edition cover image" style="display: block; margin-left: auto; margin-right: auto">
 
 Readings on biological topics will be taken from a variety of sources, with all readings posted on the course website.
 
