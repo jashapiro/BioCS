@@ -9,7 +9,12 @@ Joshua Shapiro & Douglas Blank
 This course is an introduction to biology through computer science, or an introduction to computer science through biology. The course will examine biological systems through the application of computer science, exploring concepts from bioinformatics, evolution, ecology, and molecular biology through the practice of writing and modifying code in the Python programming language. The course will introduce students to the subject matter and branches of computer science as an academic discipline, and the nature, development, coding, testing, documenting and analysis of the efficiency and limitations of algorithms.
 
 ### Learning objectives
-
+The goal of this course is to introduce concepts from computer science and biology in an integrated approach, while drawing connections between these two fields of study. Specifically, students completing the course should be able to:
+ 
+* Read, write, and modify computer code in the Python language utilizing programming constructs such as variables, functions, loops, conditional statements, and objects. 
+* Design, implement, and debug programs to perform computational tasks.
+* Model biological systems in a computational framework, and gain biological insights from those models.
+* Understand common models of biological evolution and population genetics and explore their application to optimizing computational problems.
 
 
 ## Tentative Schedule
@@ -19,29 +24,29 @@ This course is an introduction to biology through computer science, or an introd
 1     | Jan 19 | Modeling Life - picobot        | Chapter 1
       | Jan 21 | Foraging with picobot          |
 2     | Jan 27 | Simple programs - Python picobot | Chapter 2, 7.1-7.3
-      | Jan 19 | Random and pseudorandom numbers  |
+      | Jan 19 | Stochastic simulation, Random & pseudorandom numbers  |
 3     | Feb 2  | DNA sequence analysis: GC content -  math, strings, functions | Chapter 3, 5.1-5.2, 6
-      | Feb 4  | GC content variation across genomes and species - lists, basic graphics | Chapter 4, 11.1-11.3
+      | Feb 4  | GC content variation across genomes & species - lists, basic graphics | Chapter 4, 11.1-11.3
 4     | Feb 9  | DNA Translation - files, dictionaries | Chapter 5.3-5.10, 11.1-11.3, 11.6
-      | Feb 11 | Debugging and testing          |
-5     | Feb 15 | DNA mutations, types and effects - modular arithmetic   | Chapter 7
+      | Feb 11 | Debugging & testing            |
+5     | Feb 15 | DNA mutations, types & effects - modular arithmetic | Chapter 7
       | Feb 17 | Sorting                        |
 6     | Feb 23 | *Community Day of Learning*    |
-      | Feb 25 | Evolving digital organisms               |
+      | Feb 25 | Evolving digital organisms     |
 7     | Mar 1  | Review for exam                |
       | Mar 3  | **Exam I**                     |
 8     | Mar 7  | *Spring Break*                 |
 9     | Mar 15 | Population genetics: Random Genetic Drift - arrays, random  | Chapter 8 
       | Mar 17 | Genetic drift with mutations: infinite vs finite sites - program design | Chapter 9
-10    | Mar 22 | Haploids, diploids and mating - classes & objects | Chapter 10
+10    | Mar 22 | Haploids, diploids & mating - classes & objects | Chapter 10
       | Mar 24 | Additivity & dominance in evolution |
 11    | Mar 29 | Project Brainstorming & Design      |
-      | Mar 31 | Learning Systems and Plasticity     |
+      | Mar 31 | Learning Systems & Plasticity       |
 12    | Apr 5  | Training a neural network           |
       | Apr 7  | Algorithm design & efficiency  | Chapter 13
 13    | Apr 12 | Recursion                      |
       | Apr 14 | Sequence alignment             |
-14    | Apr 19 | Global vs. local alignment     |
+14    | Apr 19 | Broader applications           |
       | Apr 21 | Project Presentations          |
 15    | Apr 26 | Project Presentations          |
       | Apr 28 | Review for final               |
