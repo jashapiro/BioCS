@@ -56,7 +56,9 @@ The goal of this course is to introduce concepts from computer science and biolo
 
 ### Textbook and Readings
 
-For the computer science topics of the course, we will be using *Python Programming, Second Edition* by John Zelle. Be sure to get the second edition, as it covers Python 3, which is the version of the language that we will be using. 
+For the computer science topics of the course, we will be using [Python Programming, Second Edition](http://mcsp.wartburg.edu/zelle/python/ppics2/index.html) by John Zelle. Be sure to get the second edition, as it covers Python 3, which is the version of the language that we will be using. 
+
+![Python Programming, second edition](http://mcsp.wartburg.edu/zelle/python/ppics2/cover.png)
 
 Readings on biological topics will be taken from a variety of sources, with all readings posted on the course website.
 
