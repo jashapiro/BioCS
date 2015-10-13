@@ -70,7 +70,7 @@ There will be approximately ten assignments, consisting of programming problems 
 
 ### Computing
 
-All computing will be done on the Athena cluster through your own computer's web browser. We will be using the Jupyter notebook system with Python 3. Accounts will be provided.
+All computing will be done on the [Athena cluster](http://athena.brynmawr.edu/) through your own computer's web browser. We will be using the Jupyter notebook system with Python 3. Accounts will be provided.
 
 ### Exams
 
