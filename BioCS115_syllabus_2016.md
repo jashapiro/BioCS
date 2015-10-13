@@ -1,4 +1,4 @@
-# BIOL B1XX/CSMC B1XX: Computing Through Biology
+# BIOL B1XX/CSMC B1XX Computing Through Biology: An Introduction
 ### Spring 2016
 
 ### Instructors:
