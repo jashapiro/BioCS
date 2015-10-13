@@ -13,10 +13,9 @@ The goal of this course is to introduce concepts from computer science and biolo
  
 * Read, write, and modify computer code in the Python language utilizing programming constructs such as variables, functions, loops, conditional statements, and objects. 
 * Design, implement, and debug programs to perform computational tasks.
-* Model biological systems in a computational framework, and gain biological insights from those models.
-* Understand common models of biological evolution and population genetics and explore their application to optimizing computational problems.
 * Understand the ideas behind computation, including the limits, requirements, and performance of different algorithms.
-
+* Model biological systems in a computational framework, and gain biological insights from those models in areas such as genetics, evolution, and ecology.
+* Understand common models of biological evolution and population genetics and explore their application to optimizing computational problems.
 
 ## Tentative Schedule
 
