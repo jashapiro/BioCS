@@ -12,7 +12,7 @@
     * distributions of food
 
 ## DNA statistics:
-* Assignment 3: GC counting
+* [Assignment 3](https://athena.brynmawr.edu/jupyter/hub/dblank/public//BioCS/notebooks/Lab03.ipynb): GC counting
   * Count from a string
   * functions to count form a string (one argument, one output)
   * Break long sequence into windows
